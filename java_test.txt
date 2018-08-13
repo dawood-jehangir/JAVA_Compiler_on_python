@@ -1,0 +1,52 @@
+public class Fib {
+	public static void main(String [] args) {
+		
+		int [] a = {1,2,3,4};
+		int [] arr = new int [2];
+		arr[0] = 95;
+		int numF = 10;
+		int x = 0;
+		boolean y = true;
+		for(int i = 0; i<numF; i++) {
+			x++;
+		}
+
+		boolean y = true;
+
+		if(y==true){
+			if(numF==10){
+				x=555;
+			}
+		}
+
+		String name = "dawood";
+
+		System.out.println("testing print statements");
+
+		boolean abc = false;
+		arr[0+1] = 195;
+
+		int var_exp;
+		var_exp = 5 * (5+5);
+
+		//a[1+2] = 45;
+
+		//if(y==true){
+		//	int x=5;
+		//}
+
+		//int [] a = {1,2,7};
+		//x[1+0] = 45;
+
+		/*if(x==5){
+
+		}*/
+		//int [] x = {1,2,3,4};
+		//x = (5+(5*5));
+		//int []myarray = new int[3];
+	}
+	public int fib(int x){
+		int z= 0;
+	}
+	
+}
